@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "name": "TechCorp Solutions",
+    "industry": "Technology",
+    "website": "https://techcorp.com",
+    "employeeCount": 150,
+    "description": "Leading software development company specializing in enterprise solutions",
+    "createdAt": "2024-01-10T08:00:00Z",
+    "updatedAt": "2024-01-10T08:00:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Innovate Design Studio",
+    "industry": "Design & Creative",
+    "website": "https://innovatedesign.com",
+    "employeeCount": 25,
+    "description": "Award-winning design studio creating digital experiences",
+    "createdAt": "2024-01-11T10:30:00Z",
+    "updatedAt": "2024-01-11T10:30:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Global Ventures Capital",
+    "industry": "Investment & Finance",
+    "website": "https://globalventures.com",
+    "employeeCount": 75,
+    "description": "Venture capital firm focused on early-stage technology startups",
+    "createdAt": "2024-01-12T15:45:00Z",
+    "updatedAt": "2024-01-12T15:45:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "GreenTech Energy",
+    "industry": "Renewable Energy",
+    "website": "https://greentech.co",
+    "employeeCount": 200,
+    "description": "Sustainable energy solutions for commercial and residential markets",
+    "createdAt": "2024-01-13T12:20:00Z",
+    "updatedAt": "2024-01-13T12:20:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "HealthPlus Medical",
+    "industry": "Healthcare",
+    "website": "https://healthplus.org",
+    "employeeCount": 500,
+    "description": "Comprehensive healthcare services with focus on patient care innovation",
+    "createdAt": "2024-01-14T09:15:00Z",
+    "updatedAt": "2024-01-14T09:15:00Z"
+  },
+  {
+    "Id": 6,
+    "name": "FinancePro Analytics",
+    "industry": "Financial Services",
+    "website": "https://financepro.com",
+    "employeeCount": 100,
+    "description": "Advanced financial analytics and consulting for businesses",
+    "createdAt": "2024-01-15T14:30:00Z",
+    "updatedAt": "2024-01-15T14:30:00Z"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@techcorp.com",
+    "phone": "+1 (555) 123-4567",
+    "companyId": 1,
+    "notes": "Lead developer, interested in our enterprise package",
+    "createdAt": "2024-01-15T10:00:00Z",
+    "updatedAt": "2024-01-15T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Michael Chen",
+    "email": "m.chen@innovatedesign.com",
+    "phone": "+1 (555) 987-6543",
+    "companyId": 2,
+    "notes": "Creative director, looking for design collaboration",
+    "createdAt": "2024-01-16T14:30:00Z",
+    "updatedAt": "2024-01-16T14:30:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Emily Rodriguez",
+    "email": "emily.r@globalventures.com",
+    "phone": "+1 (555) 456-7890",
+    "companyId": 3,
+    "notes": "Investment partner, scheduled follow-up next week",
+    "createdAt": "2024-01-17T09:15:00Z",
+    "updatedAt": "2024-01-17T09:15:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "David Thompson",
+    "email": "david@greentech.co",
+    "phone": "+1 (555) 321-0987",
+    "companyId": 4,
+    "notes": "CEO of renewable energy startup, potential partnership",
+    "createdAt": "2024-01-18T16:45:00Z",
+    "updatedAt": "2024-01-18T16:45:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "Lisa Wang",
+    "email": "lisa.wang@healthplus.org",
+    "phone": "+1 (555) 654-3210",
+    "companyId": 5,
+    "notes": "VP of Operations, interested in our healthcare solutions",
+    "createdAt": "2024-01-19T11:20:00Z",
+    "updatedAt": "2024-01-19T11:20:00Z"
+  },
+  {
+    "Id": 6,
+    "name": "Robert Kim",
+    "email": "r.kim@financepro.com",
+    "phone": "+1 (555) 789-0123",
+    "companyId": 6,
+    "notes": "Senior analyst, evaluating our financial platform",
+    "createdAt": "2024-01-20T13:10:00Z",
+    "updatedAt": "2024-01-20T13:10:00Z"
+  }
+]
